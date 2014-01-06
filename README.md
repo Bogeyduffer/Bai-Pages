@@ -1,5 +1,5 @@
-Bai-Pages.github.io
-===================
+Bai-Pages
+=========
 
 BAI page site on github.com
 
